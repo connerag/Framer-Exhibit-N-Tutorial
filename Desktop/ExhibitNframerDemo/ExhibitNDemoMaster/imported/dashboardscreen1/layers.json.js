@@ -1,0 +1,78 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["dashboardscreen1/layers.json.js"] = [
+	{
+		"id": 5,
+		"name": "DashboardBlurFilter",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 600
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/DashboardBlurFilter.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 960,
+				"height": 600
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1186111570"
+	},
+	{
+		"id": 9,
+		"name": "DashboardBlur",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 600
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/DashboardBlur.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 960,
+				"height": 600
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "2025865556"
+	},
+	{
+		"id": 12,
+		"name": "Dashboard1",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 600
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Dashboard1.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 960,
+				"height": 600
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "156764461"
+	}
+]

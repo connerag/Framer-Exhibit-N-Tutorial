@@ -1,0 +1,144 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["caseviewscreen/layers.json.js"] = [
+	{
+		"id": 18,
+		"name": "ComparePhotos",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 600
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/ComparePhotos.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 960,
+				"height": 600
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1815096331"
+	},
+	{
+		"id": 12,
+		"name": "CaseView",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 600
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 11,
+				"name": "CaseView1",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 960,
+					"height": 600
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/CaseView1.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 960,
+						"height": 600
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1801525220"
+			},
+			{
+				"id": 8,
+				"name": "CaseViewBox",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 960,
+					"height": 600
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/CaseViewBox.png",
+					"frame": {
+						"x": 506,
+						"y": 342,
+						"width": 169,
+						"height": 72
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1801525222"
+			},
+			{
+				"id": 5,
+				"name": "CaseView2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 960,
+					"height": 600
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/CaseView2.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 960,
+						"height": 600
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1720681704"
+			},
+			{
+				"id": 15,
+				"name": "CasePhotos",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 960,
+					"height": 600
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/CasePhotos.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 960,
+						"height": 600
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "230812501"
+			}
+		],
+		"modification": "1653219146"
+	}
+]
